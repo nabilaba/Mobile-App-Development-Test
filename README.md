@@ -27,6 +27,9 @@
 4. When a User on an item list is clicked, the Selected User Name label in “Second Screen” will be replaced by the selected User’s name (don’t create a new screen, just continue the current screen).
 
 ![](ss/1.png)
+
 ![](ss/2.png)
+
 ![](ss/3.png)
 
+#### @nabil_aba
