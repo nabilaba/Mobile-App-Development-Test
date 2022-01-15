@@ -4,11 +4,11 @@
 ### FirstScreen
 1. It has two inputTexts and two buttons. 
 2. One inputText for name input and the other for input sentence text, to check whether the sentence is palindrome or not.
-    Example :
-    e.g isPalindrome(“kasur rusak”) -> true
-    e.g isPalindrome(“step on no pets”) -> true
-    e.g isPalindrome(“put it up”) -> true
-    e.g isPalindrome(“suitmedia”) -> false
+    - Example :
+        - e.g isPalindrome(“kasur rusak”) -> true
+        - e.g isPalindrome(“step on no pets”) -> true
+        - e.g isPalindrome(“put it up”) -> true
+        - e.g isPalindrome(“suitmedia”) -> false
 3. A button with a “Check” title below the inputTexts
 4. Show as dialog with message “isPalindrome” if it’s palindrome and message “not   palindrome” if it’s not palindrome when clicking the button check.
 5. And a button with a “Next” title below the Check Button.
