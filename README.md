@@ -1,5 +1,5 @@
 # Mobile-App-Development-Test
-## This is for test part 1 of signing in suitmedia
+## Create Android application with RestApi Reqres & Volley Library
 
 ### FirstScreen
 1. It has two inputTexts and two buttons. 
@@ -29,3 +29,4 @@
 ![](ss/1.png)
 ![](ss/2.png)
 ![](ss/3.png)
+
